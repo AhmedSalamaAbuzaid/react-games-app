@@ -1,11 +1,12 @@
 .most-popular-items{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     gap: calc(var(--margin-primary)/ 5);
 }
 .most-popular-item{
-    flex: 1 1 0;
+    flex: 1 2 20%;
 }
 .card-box {
     padding: calc(var(--padding-primary) / 2);
@@ -24,4 +25,11 @@
 }
 .most-popular-item-title {
     font-size: var(--font-size-normal);
+    line-height: 1.5rem;
+}
+
+.most-popular-item-content ul li{
+    display: flex;
+    justify-content: space-between;
+
 }

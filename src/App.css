@@ -18,6 +18,7 @@
     --font-size-normal: 15px ;
     --font-size-large: calc(var(--font-size-normal) * 2) ;
 
+    --icon-color: yellow;
 
 }   
 

@@ -1,19 +1,18 @@
 import './Card.css'
-import popular_01 from '../../assets/images/popular-01.jpg'
-
-const Card = () => {
+import { FaStar ,FaDownload } from "react-icons/fa";
+const Card = (props) => {
   return (
     <div className='most-popular-item'>
         <div className='card-box'>
-            <img alt="most-popular-item-pic" src={popular_01}/>
+            <img alt="most-popular-item-pic" src={props.image}/>
             <div className='most-popular-item-content'>
                 <h4 className='most-popular-item-title'>
-                    forntnine <br />
-                    <span>sandbox</span>
+                    {props.title} <br />
+                    <span>{props.category}</span>
                 </h4>
                 <ul>
-                    <li><span>4.8</span></li>
-                    <li><span>2.3</span></li>
+                    <li><span style={{color:"var(--icon-color)"}}><FaStar/> </span> <span>{props.rate}</span></li>
+                    <li><span style={{color:"var(--color-primary)",marginRight:"5px"}}><FaDownload/></span><span>{props.download}</span></li>
                 </ul>
             </div>
         </div>

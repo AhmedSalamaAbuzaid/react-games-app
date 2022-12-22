@@ -1,7 +1,8 @@
 import React from 'react'
 import './Header.css';
 import logo from '../../assets/images/logo.png'
-import {Navitem, NavitemDropDown} from '../../components/index';
+import {Navitem, NavitemDropDown ,SacandaryButton} from '../../components/index';
+
 
 const Header = (props) => {
   return (
@@ -37,8 +38,8 @@ const Header = (props) => {
               </Navitem>
             </ul>
             <form className="d-flex">
-              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-              <button className="btn btn-outline-success" type="submit">Search</button>
+              <input className="form-control rounded-5 me-2" type="search" placeholder="Search" aria-label="Search"/>
+              <SacandaryButton type="submit">Search</SacandaryButton>
             </form>
           </div>
         </div>

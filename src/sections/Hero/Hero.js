@@ -1,4 +1,4 @@
-import React from 'react'
+import {PrimaryButton} from '../../components/index'
 import './Hero.css'
 
 const Hero = () => {
@@ -7,10 +7,7 @@ const Hero = () => {
       <div className='hero-text'>
         <h6 className='hero-subtitle'>Welcom To Cyborg</h6>
         <h6 className='hero-title'><em>Browse </em>Our Popular Games Here</h6>
-        
-        <div className='main-button'>
-          <a href='browse.html'>Browse Now</a>
-        </div>
+        <PrimaryButton>Browse Now</PrimaryButton>
       </div>
     </div>
   )

@@ -1,0 +1,30 @@
+.button a {
+    font-size: 14px;
+    color: var(--color-light);
+    background-color: transparent;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+}
+.primary-btn a {
+    background-color: var(--color-primary);
+}
+.primary-btn a:hover {
+    background-color: var(--color-light);
+    color: var(--color-primary);
+}
+.secandary-btn a {
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+}
+.secandary-btn a:hover {
+    border: 1px solid var(--color-light);
+    color: var(--color-light);
+
+}

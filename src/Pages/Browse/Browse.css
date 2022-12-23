@@ -1,0 +1,10 @@
+.change-section-wrapper {
+    width: fit-content;
+}
+
+.browser-content{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+}

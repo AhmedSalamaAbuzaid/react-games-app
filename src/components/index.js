@@ -7,5 +7,6 @@ export {default as SectionWrapper} from './SectionWrapper/SectionWrapper'
 export {default as GamingLibararyCard} from './GamingLibararyCard/GamingLibararyCard'
 export {default as PrimaryButton} from './Button/Button'
 export {SacandaryButton} from './Button/Button'
+export {default as MySlider} from './MySlider/MySlider'
 
 

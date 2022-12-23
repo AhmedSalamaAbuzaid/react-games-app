@@ -1,8 +1,12 @@
+import { GamingLibrary, MostPopular } from '../../sections'
 import './Stream.css'
 
 const Stream = () => {
   return (
-    <div>Stream</div>
+    <>
+        <h1>STREAM PAGE</h1>
+        <MostPopular/>
+    </>
   )
 }
 

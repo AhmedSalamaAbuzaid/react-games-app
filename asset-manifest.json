@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/react-games-app/static/css/main.a861021c.css",
-    "main.js": "/react-games-app/static/js/main.e4bf5f05.js",
+    "main.css": "/react-games-app/static/css/main.ad2715d9.css",
+    "main.js": "/react-games-app/static/js/main.059a8aba.js",
     "static/js/787.2b35ebb1.chunk.js": "/react-games-app/static/js/787.2b35ebb1.chunk.js",
     "static/media/banner-bg.jpg": "/react-games-app/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/clip-01.jpg": "/react-games-app/static/media/clip-01.42331eaf604300282321.jpg",
+    "static/media/popular-05.jpg": "/react-games-app/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/clip-04.jpg": "/react-games-app/static/media/clip-04.f8a52b63ce2c72e3626d.jpg",
+    "static/media/popular-02.jpg": "/react-games-app/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
     "static/media/popular-01.jpg": "/react-games-app/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/clip-03.jpg": "/react-games-app/static/media/clip-03.305908a1b11aa23b0641.jpg",
+    "static/media/popular-04.jpg": "/react-games-app/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/clip-02.jpg": "/react-games-app/static/media/clip-02.cdeda10232699818b045.jpg",
+    "static/media/popular-03.jpg": "/react-games-app/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/react-games-app/index.html",
-    "main.a861021c.css.map": "/react-games-app/static/css/main.a861021c.css.map",
-    "main.e4bf5f05.js.map": "/react-games-app/static/js/main.e4bf5f05.js.map",
+    "main.ad2715d9.css.map": "/react-games-app/static/css/main.ad2715d9.css.map",
+    "main.059a8aba.js.map": "/react-games-app/static/js/main.059a8aba.js.map",
     "787.2b35ebb1.chunk.js.map": "/react-games-app/static/js/787.2b35ebb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a861021c.css",
-    "static/js/main.e4bf5f05.js"
+    "static/css/main.ad2715d9.css",
+    "static/js/main.059a8aba.js"
   ]
 }

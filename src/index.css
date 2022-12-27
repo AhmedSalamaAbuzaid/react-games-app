@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (width < 676px) {
+    
+  .section-wrapper .change-section-wrapper,
+  .container .main-container {
+      padding: 5px; 
+      font-size: 10px;
+      width: inherit;
+  }
+  .hero-title,
+  .section-header h4{
+      font-size: 20px;
+  
+  }
+   h4,
+   li span{
+  font-size: 15px;
+  }
+  .Gaming-library-card ul{
+      justify-content: space-between;
+      flex-direction: column;
+      text-align: center;
+  }
+  
+  .Gaming-library-card li,
+  .change-section-wrapper {
+      width: 100% !important
+  }
+  .browser-content{
+      display: block;
+  }
+  }

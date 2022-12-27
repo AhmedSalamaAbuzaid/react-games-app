@@ -1,16 +1,17 @@
 import {BrowserRouter as Router, Route , Routes} from 'react-router-dom';
+// import { useLocation } from "react-router-dom";
 
-import './App.css';
 import { Container} from './components/index';
 import { Header, Footer} from './sections/index';
 import { Home, Profile, Stream } from './Pages/index'
 import Browse from './Pages/Browse/Browse';
 
+import './App.css';
 function App() {
-
+  // const location = useLocation();
   return (
     <>
-      <Router>
+      <Router basename={'/react-games-app'}>
         <Header/>
         <Container>
           <Routes>

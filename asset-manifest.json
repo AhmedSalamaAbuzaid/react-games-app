@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-games-app/static/css/main.ad2715d9.css",
-    "main.js": "/react-games-app/static/js/main.059a8aba.js",
+    "main.css": "/react-games-app/static/css/main.4bb95ba2.css",
+    "main.js": "/react-games-app/static/js/main.ca3c5258.js",
     "static/js/787.2b35ebb1.chunk.js": "/react-games-app/static/js/787.2b35ebb1.chunk.js",
     "static/media/banner-bg.jpg": "/react-games-app/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/clip-01.jpg": "/react-games-app/static/media/clip-01.42331eaf604300282321.jpg",
@@ -14,12 +14,12 @@
     "static/media/clip-02.jpg": "/react-games-app/static/media/clip-02.cdeda10232699818b045.jpg",
     "static/media/popular-03.jpg": "/react-games-app/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/react-games-app/index.html",
-    "main.ad2715d9.css.map": "/react-games-app/static/css/main.ad2715d9.css.map",
-    "main.059a8aba.js.map": "/react-games-app/static/js/main.059a8aba.js.map",
+    "main.4bb95ba2.css.map": "/react-games-app/static/css/main.4bb95ba2.css.map",
+    "main.ca3c5258.js.map": "/react-games-app/static/js/main.ca3c5258.js.map",
     "787.2b35ebb1.chunk.js.map": "/react-games-app/static/js/787.2b35ebb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad2715d9.css",
-    "static/js/main.059a8aba.js"
+    "static/css/main.4bb95ba2.css",
+    "static/js/main.ca3c5258.js"
   ]
 }
